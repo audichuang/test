@@ -8,6 +8,8 @@ import jakarta.validation.Valid;
 
 
 /**
+ * RET-B-TAKINGFILE 個法人信託取檔_取檔作業
+ *
  * @author audi
  */
 public interface AbcService {
