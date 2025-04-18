@@ -8,8 +8,6 @@ import jakarta.validation.Valid;
 
 
 /**
- * AP-QRYAAA 查詢AAA
- *
  * @author audi
  */
 public interface AbcService {
