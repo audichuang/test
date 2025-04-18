@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaBeanToTypescriptInterfaceProjectSettings">
+    <option name="requestDtoSuffixes">
+      <list>
+        <option value="DTO" />
+        <option value="Dto" />
+        <option value="Request" />
+        <option value="Req" />
+        <option value="Rq" />
+        <option value="Tranrq" />
+        <option value="Qry" />
+        <option value="Query" />
+        <option value="Model" />
+        <option value="Entity" />
+        <option value="Data" />
+        <option value="Bean" />
+        <option value="VO" />
+        <option value="Vo" />
+      </list>
+    </option>
+    <option name="responseDtoSuffixes">
+      <list>
+        <option value="Response" />
+        <option value="Resp" />
+        <option value="Rs" />
+        <option value="Tranrs" />
+        <option value="Result" />
+        <option value="Results" />
+        <option value="Detail" />
+        <option value="Info" />
+      </list>
+    </option>
+  </component>
+</project>
