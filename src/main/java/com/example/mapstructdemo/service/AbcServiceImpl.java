@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author audi
+ * @author audi123
  */
 @Service
 @RequiredArgsConstructor
@@ -18,14 +18,6 @@ public class AbcServiceImpl implements AbcService {
 
     @Autowired
     private AaaaService aaaaService;
-
-
-
-
-
-
-
-
 
     @Override
     public ResponseTemplate<EmptyTranrs> asdasdasd(RequestTemplate<QryyStatementA> customerDto) {
